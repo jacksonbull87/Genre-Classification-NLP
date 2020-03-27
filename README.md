@@ -19,7 +19,8 @@ Data cleaning consisted of removing all song that were tagged with multiple genr
   -Words Clouds shows overlap between all 4 genres but with a few keys differences:
     -Country: Night, Day; Pop: Baby, Feel; Hip-Hop: lots of slang and explicit lyrics
         
-![](/Images/top_25_country.png) ![](/Images/top_25_pop.png) ![](/Images/top_25_rap.png) ![](/Images/rock.png)
+Top 25 Country Words ![](/Images/top_25_country.png) Top 25 Pop Words![](/Images/top_25_pop.png) 
+Top 25 Rap Words ![](/Images/top_25_rap.png) Top 25 Rock Words ![](/Images/rock.png)
 
         
 ## Modeling
