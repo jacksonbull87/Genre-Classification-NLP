@@ -13,8 +13,13 @@ Data cleaning consisted of removing all song that were tagged with multiple genr
     - Words Counts by genre
         - Hip-Hop stood out from the other 3 genres in both unique words and average word length
         
+![](/Images/avg_words_per_genre.png) ![](/Images/uniquewords_genre.png)
+        
     - Words Clouds shows overlap between all 4 genres but with a few keys differences:
         - Country: Night, Day; Pop: Baby, Feel; Hip-Hop: lots of slang and explicit lyrics
+        
+        ![](/Images/avg_words_per_genre.png) ![](/Images/uniquewords_genre.png)
+
         
 ## Modeling
 After running several models including Naive Bayes, SGD, Logistic Regression, and XGBoost,
