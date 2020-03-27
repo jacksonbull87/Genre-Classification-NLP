@@ -27,7 +27,7 @@ Top 25 Rap Words ![](/Images/top_25_rap.png) Top 25 Rock Words ![](/Images/rock.
 After running several models including Naive Bayes, SGD, Logistic Regression, and XGBoost,
 our best F1 score of .751 was accomplished using XGBoost without upsampling. We did try applying an upsampled dataset to XGBoost to see if that improved the score, however, upsampling resulted in a worse score of .51. Even though the two models had drastically different results, both had similar performance of predicting Pop songs.
 
-!## Without Upsampling [](/Images/xgboost_confusion_matrix.png)  With Upsampling ![](/Images/xgboost_upsampled_confusion.png)
+## Without Upsampling ![](/Images/xgboost_confusion_matrix.png)  With Upsampling ![](/Images/xgboost_upsampled_confusion.png)
 
 ## Conclusion/Final Insights
 
